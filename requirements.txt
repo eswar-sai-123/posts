@@ -9,3 +9,4 @@ Flask-WTF
 WTForms
 python-dotenv
 pillow 
+email-validator
