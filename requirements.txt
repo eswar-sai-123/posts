@@ -7,3 +7,4 @@ Flask-Login
 Flask-Mail
 Flask-WTF
 WTForms
+python-dotenv
