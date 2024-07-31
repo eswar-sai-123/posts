@@ -1,3 +1,4 @@
 Flask
 itsdangerous
 gunicorn
+Flask-SQLAlchemy
