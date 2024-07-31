@@ -8,3 +8,4 @@ Flask-Mail
 Flask-WTF
 WTForms
 python-dotenv
+pillow 
