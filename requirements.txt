@@ -10,3 +10,4 @@ WTForms
 python-dotenv
 pillow 
 email-validator
+psycopg2
